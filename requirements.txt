@@ -1,0 +1,22 @@
+# Core utilities for forensic log and data analysis
+pandas
+python-dateutil
+matplotlib
+numpy
+
+# For reading Apple plist, XML, and structured logs
+xmltodict
+
+# For working with base64 and encrypted blobs
+pycryptodome
+base58
+
+# JSON parsing and log formatting
+jsonlines
+ujson
+
+# Detect encoding issues (UTF-16, Latin-1, etc.)
+chardet
+
+# Scan folders and pattern-match filenames
+glob2
