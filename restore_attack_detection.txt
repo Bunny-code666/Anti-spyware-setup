@@ -1,0 +1,4 @@
+
+Prompt: "Analyze this .ips OTA restore log for tampered partitions, signature mismatches, and repeated restore events. Correlate to system compromise risks."
+
+Context: Used within ChatGPT Codex + Code Interpreter
