@@ -1,4 +1,4 @@
-
+#
 # Anti-Spyware Diagnostic Environment (ChatGPT + Forensic Logs)
 
 ## 1. Overview
